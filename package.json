@@ -1,0 +1,24 @@
+{
+  "name": "fe3hsupport",
+  "version": "1.0.0",
+  "description": "Fire Emblem Three Houses Support API",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamdal/fe3hSupport.git"
+  },
+  "author": "Dalena Pham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phamdal/fe3hSupport/issues"
+  },
+  "homepage": "https://github.com/phamdal/fe3hSupport#readme"
+}
