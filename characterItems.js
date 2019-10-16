@@ -71,7 +71,13 @@ const Alois =
             "Commend at nothing worse than trying to explain a joke",
             "Laugh, Chat, or Praise at you should go fishing with me soon"
         ]
-    }
+    }, 
+    lostItems:
+    [
+        "Introduction to Magic",
+        "Foreign Gold Coin",
+        "Mysterious Notebook"
+    ]
 }; 
 
 exports.Alois = Alois; 
@@ -1007,7 +1013,7 @@ exports.Felix = Felix;
 const Ferdinand = 
 {
     name: "Ferdinand", 
-    profilePic: "ferdinard.png", 
+    profilePic: "ferdinand.png", 
     gifts: 
     [
         "Riding Boots",
@@ -1265,7 +1271,69 @@ const Hanneman =
     ], 
     teaTime: 
     {
+        favTime: "Bergamot, Sweet-Apple Blend", 
+        topics: 
+        [
+            "A dinner invitation",
+            "A new gambit",
+            "A place you'd like to visit",
+            "A word of advice",
+            "Books you've read recently",
 
+            "Capable comrades",
+            "Cooking mishaps",
+            "Equipment upkeep",
+            "Evaluating allies",
+            "Exploring the Monastery",
+
+            "Fashion",
+            "Favorite sweets",
+            "Fodlan's future",
+            "Food in the Dining Hall",
+            "Gifts you'd like to receive",
+
+            "Heart-racing memories",
+            "I heard some gossip",
+            "I'm counting on you",
+            "Likeable allies",
+            "Monastery mysteries",
+
+            "Monastery rules",
+            "Monastery security",
+            "Out first meeting",
+            "Overcoming weaknesses",
+            "Past laughs",
+
+            "Plans for the future",
+            "Relaxing at the Sauna",
+            "School days",
+            "Shareable snacks",
+            "Tell me about yourself",
+
+            "Thanks for everything",
+            "The existence of Crests",
+            "The ideal professor",
+            "The last battle",
+            "The Library's collection",
+
+            "Things that bother you",
+            "You seem well",
+            "You're doing great work",
+            "Your research"	
+        ], 
+        finalTopics:
+        [
+            "Disagree or Sip Tea about Ashen Demon being an unbelievable title",
+            "Nod or Chat at the Crest of Flames sharing many traits with other Crests",
+            "Commend or Sip Tea at diving into some research together",
+            "Commend or Praise my choice to leave behind my noble title and holdings",
+            "Praise or Sigh at my unrelenting study for Crests all in the name of my dear sister",
+
+            "Laugh or Admonish at never can stop talking about Crests",
+            "Blush or Chat at never found out the secret of your birth",
+            "Sip Tea, Admonish, or Laugh at telling you about my favorite food or drinks",
+            "Praise, Chat, or Commend at the Monastery holding so many documents in the Library"	
+        ]
     }
 }
 
