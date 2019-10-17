@@ -158,7 +158,13 @@ const Annette =
             "Nod or Laugh at spending time with you",
             "Blush or Laugh about the first time I met you"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Unfinished Score", 
+        "School of Sorcery Book", 
+        "Wax Diptych"
+    ]
 }; 
 
 exports.Annette = Annette; 
@@ -234,7 +240,13 @@ const Ashe =
             "Blush or Nod at time flying with you",
             "Disagree or Praise working harder"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Moon Knight's Tale", 
+        "Evil-Repelling Amulet", 
+        "Bundle of Herbs"
+    ]
 }; 
 
 exports.Ashe = Ashe; 
@@ -314,7 +326,13 @@ const Bernadetta =
             "Praise or Admonish at spoiling me",
             "Admonish at being worried about punishment"
         ]
-    }
+    }, 
+    lostItems:
+    [
+        "Needle and Thread", 
+        "Still-Life Picture", 
+        "Hedgehog Case"
+    ]
 }; 
 
 exports.Bernadetta = Bernadetta; 
@@ -394,7 +412,13 @@ const Casper =
             "Chat or Nod at the suspicious guy",
             "Chat or Commend on what is justice"
         ]
-    }
+    }, 
+    lostItems:
+    [
+        "Thunderbrand Replica", 
+        "Tattered Overcoat", 
+        "Grounding Charm"
+    ]
 }; 
 
 exports.Casper = Casper; 
@@ -473,7 +497,13 @@ const Catherine =
             "Admonish, Sip Tea, or Blush at wondering what you like when you're nervous",
             "Sip Tea, Blush, or Disagree at your nickname is good but not as good as Thunder Catherine"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Weathered Clock", 
+        "Letter to Rhea", 
+        "Badge of Graduation"
+    ]
 }; 
 
 exports.Catherine = Catherine; 
@@ -560,7 +590,13 @@ const Claude =
             "Nod at wanting to know more about you",
             "Praise or Nod at wondering how many mysteries we can solve"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Mild Stomache Poison", 
+        "Tactical Game Piece", 
+        "Leather Bow Sheath"
+    ]
 }; 
 
 exports.Claude = Claude; 
@@ -698,7 +734,13 @@ const Dedue =
             "Commend or Praise at being the sword and shield of his Highness",
             "Blush or Nod at visiting him"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Gold Earring", 
+        "Gardening Shears", 
+        "Iron Cooking Pot"
+    ]
 }; 
 
 exports.Dedue = Dedue; 
@@ -774,7 +816,13 @@ const Dimitri =
             "Nod or Laugh at the day being over before I know it",
             "Disagree, Praise, or Blush at you really helped me"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Black Leather Gloves", 
+        "Training Logbook", 
+        "Dulled Longsword"
+    ]
 }
 
 exports.Dimitri = Dimitri;
@@ -857,7 +905,13 @@ const Dorothea =
             "Sip Tea, Laugh, or Blush at not judging me for living how I want to",
             "Sip Tea or Chat at vain men's lies never lasting"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Silver Brooch", 
+        "Songstress Poster", 
+        "Lovely Comb"
+    ]
 }
 
 exports.Dorothea = Dorothea; 
@@ -939,7 +993,13 @@ const Edelgard =
             "Nod at showing you around Enbarr",
             "Blush, Sip Tea, or Nod at spending quiet moments with you"
         ]
-    }
+    }, 
+    lostItems:
+    [
+        "Time-Worn Quill Pen", 
+        "Easter Porcelain", 
+        "White Glove"
+    ]
 }
 
 exports.Edelgard = Edelgard; 
@@ -1005,7 +1065,13 @@ const Felix =
             "Blush or Laugh at spending time with you",
             "Chat or Blush at what made you so strong"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Black Iron Spur", 
+        "Sword Belt Fragment", 
+        "Toothed Dagger"
+    ]
 }
 
 exports.Felix = Felix; 
@@ -1097,7 +1163,13 @@ const Ferdinand =
             "Chat or Nod at the Sword of the Creator going dull",
             "Blush, Commend, or Praise ttreating everyone equally"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Maintenance Oil", 
+        "Agricultural Study", 
+        "Bag of Tea Leaves"
+    ]
 }
 
 exports.Ferdinand = Ferdinand; 
@@ -1184,7 +1256,13 @@ const Flayn =
             "Nod at we should take care of eachother",
             "Disagree or Nod at not seeming to know much about yourself"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Antique Clasp", 
+        "Old Map of Enbarr", 
+        "Dusty Book of Fables"
+    ]
 }
 
 exports.Flayn = Flayn; 
@@ -1253,7 +1331,13 @@ const Gilbert =
             "Chat at strength alone does not make you powerful",
             "Nod at walking first thing in the morning"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Noseless Puppet", 
+        "Carving Hammer", 
+        "Silver Necklace"
+    ]
 }
 
 exports.Gilbert = Gilbert; 
@@ -1334,7 +1418,13 @@ const Hanneman =
             "Sip Tea, Admonish, or Laugh at telling you about my favorite food or drinks",
             "Praise, Chat, or Commend at the Monastery holding so many documents in the Library"	
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Lens Cloth", 
+        "Hammer and Chisel", 
+        "Sketch of a Sigil"
+    ]
 }
 
 exports.Hanneman = Hanneman; 
@@ -1415,7 +1505,13 @@ const Hilda =
             "Sip Tea, Admonish, or Laugh at telling you about my favorite food or drinks",
             "Praise, Chat, or Commend at the Monastery holding so many documents in the Library"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Handmade Hair Clip", 
+        "Spotless Bandage", 
+        "Used Bottle of Perfume"
+    ]
 }
 
 exports.Hilda = Hilda; 
@@ -1475,7 +1571,13 @@ const Hubert =
             "Commend or Praise the head of house Vestra",
             "Disagree or Sip Tea about your keen insights"
         ]
-    }
+    }, 
+    lostItems:
+    [
+        "Hresvelg Treatise", 
+        "Noxious Handkerchief",
+        "Folding Razor"
+    ]
 }
 
 exports.Hubert = Hubert; 
@@ -1558,7 +1660,13 @@ const Ignatz =
             "Nod or Chat at thinking its good to have a hobby",
             "Nod or Praise for wanting to support my family"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Blue Stone", 
+        "Art Book", 
+        "Letter to the Goddess"
+    ]
 }
 
 exports.Ignatz = Ignatz; 
@@ -1647,7 +1755,13 @@ const Ingrid =
             "Laugh at thinking of my next meal",
             "Chat or Laugh at your favorite food"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Pegasus Horseshoes", 
+        "Jousting Almanac", 
+        "Curry Comb"
+    ]
 }
 
 exports.Ingrid = Ingrid; 
@@ -1732,7 +1846,13 @@ const Leonie =
             "Praise, Chat, or Commend at people always seem to talk about romance",
             "Nod or Commend at taking whatever you don't need"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Hand Drawn Map", 
+        "Crude Arrowheads", 
+        "Fur Scarf"
+    ]
 }
 
 exports.Leonie = Leonie; 
@@ -1795,7 +1915,13 @@ const Linhardt =
             "Sip Tea or Admonish at waking me if I fall asleep",
             "Praise or Nod at wanting to better understand Crestology"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "The Saints Revealed", 
+        "Feather Pillow", 
+        "Animated Bait"
+    ]
 }
 
 exports.Linhardt = Linhardt; 
@@ -1877,7 +2003,13 @@ const Lorenz =
             "Praise or Nod at one cannot be at one's best all the time",
             "Nod or Sip Tea at roses perfectly embodying a blend of elegance and power"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Artifical Flower", 
+        "A Treatise on Etiquette",
+        "Silk Handkerchief"
+    ]
 }
 
 exports.Lorenz = Lorenz; 
@@ -1963,7 +2095,13 @@ const Lysithea =
             "Sigh, Chat, or Praise at the world might've been peaceful without Crests",
             "Chat or Nod at wondering what I'd do if I gave up everything for my freedom"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Encylopedia of Sweets", 
+        "Princess Doll", 
+        "New Bottle of Perfume"
+    ]
 }
 
 exports.Lysithea = Lysithea; 
@@ -2053,7 +2191,13 @@ const Manuela =
             "Sip Tea or Blush at you are always so kind to me",
             "Praise or Disagree at you think I complain too much"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Wellness Herbs", 
+        "Clean Dusting Cloth", 
+        "Light Purple Veil"
+    ]
 }
 
 exports.Manuela = Manuela; 
@@ -2122,7 +2266,13 @@ const Marianne =
             "Disagree with wasting time spent with me",
             "Sigh or Nod at you don't seem to be very good at talking"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Bag of Seeds", 
+        "How to be Tidy", 
+        "Confessional Letter"
+    ]
 }
 
 exports.Marianne = Marianne; 
@@ -2204,8 +2354,13 @@ const Mercedes =
             "Blush, Commend, or Nod at using you as a drawing model",
             "Nod, Chat, or Praise at writing to my mother soon"
         ]
-
-    }
+    }, 
+    lostItems: 
+    [
+        "Book of Ghost Stories", 
+        "Fruit Preserves", 
+        "How to Bake Sweets"
+    ]
 }
 
 exports.Mercedes = Mercedes; 
@@ -2296,8 +2451,13 @@ const Petra =
             "Praise or Admonish at studying, training, researching, and sparring",
             "Nod or Blush at wanting to show you the wonderful land of Brigid"
         ]
-
-    }
+    }, 
+    lostItems: 
+    [
+        "Exotic Feather", 
+        "Small Tanned Hide", 
+        "Annotated Dictionary"
+    ]
 }
 
 exports.Petra = Petra; 
@@ -2370,7 +2530,13 @@ const Raphael =
             "Disagree, Blush, or Laugh at being unstoppable if you put some muscle on",
             "Praise or Commend at becoming a proper knight so I can take care of my sis"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Wooden Button", 
+        "Burlap Sack of Rocks", 
+        "Big Spoon"
+    ]
 }
 
 exports.Raphael = Raphael; 
@@ -2464,7 +2630,13 @@ const Seteth =
             "Nod or Chat at you have become very special to us",
             "Nod or Laugh at you should join me fishing sometime"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Unfinished Fable", 
+        "Old Fishing Rod", 
+        "Snapped Writing Quill"
+    ]
 }
 
 exports.Seteth = Seteth; 
@@ -2541,7 +2713,13 @@ const Shamir =
             "Laugh or Commend working for a fair price",
             "Admonish, Praise, or Chat at it would take months to travel to Dagda"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Bundle of Dry Hemp", 
+        "Centipede Picture", 
+        "Animal Bone Dice"
+    ]
 }
 
 exports.Shamir = Shamir; 
@@ -2634,7 +2812,13 @@ const Sylvain =
             "Commend or Chat at loving opera, art, and literature",
             "Commend or Praise about having a reason to fight"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Unused Lipstick", 
+        "Crumpled Love Letter", 
+        "The History of Sreng"
+    ]
 }
 
 exports.Sylvain = Sylvain; 
