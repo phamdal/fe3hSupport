@@ -229,6 +229,11 @@ app.get('/shamir', function(req, res)
     res.send(constants.Shamir); 
 }); 
 
+app.get('/jeritza', function(req, res)
+{
+    res.send(constants.Jeritza); 
+}); 
+
 app.get('/sylvain', function(req, res)
 {
     res.send(constants.Sylvain); 

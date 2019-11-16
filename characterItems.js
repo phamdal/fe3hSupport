@@ -2828,3 +2828,77 @@ const Sylvain =
 }
 
 exports.Sylvain = Sylvain; 
+
+const Sylvain = 
+{
+    name: "Jeritza", 
+    profilePic: "jeritza.png", 
+    gifts: 
+    [
+        "Tasty Baked Treat", 
+        "Whetstone", 
+        "Hunting Dagger", 
+        "Rose"
+    ], 
+    teaTime: 
+    {
+        favTea: "Albinean Berry, Honeyed-Fruit, Southern Fruit, Sweet-Apple", 
+        topics: 
+        [
+            "A dinner invitation",
+            "Books you’ve read recently",
+            "Childhood memories",
+
+            "Equipment upkeep",
+            "Favorite sweets",
+            "I heard some gossip",
+            
+            "Our first meeting",
+            "Thanks for everything",
+            "The opera",
+            
+            "You seem well",
+            "A new gambit",
+            "Capable comrades",
+            
+            "Children at the market",
+            "Evaluating allies",
+            "Food in the dining hall",
+            
+            "Mighty weapons",
+            "Potential training partners",
+            "The last battle",
+            
+            "The view from the bridge",
+            "Your ambitions",
+            "A strong battalion",
+            
+            "Cats",
+            "Classes you might enjoy",
+            "Exploring the monastery",
+            
+            "Hopes for your future",
+            "Monastery security",
+            "Shareable snacks",
+            
+            "The library’s collection",
+            "Working together"
+        ], 
+        finalTopics: 
+        [
+            "Nod, Chat, or Sip at Good tea, bad tea. It's all the same",
+            "Nod, Commend, or Chat at better at fighting than talking",
+            "Admonish, Sigh, or Sip at deathly allergic to this sort of thing.",
+            
+            "Nod or Disagree at this questionable passtime.",
+            "Nod, Disagree, or Chat at liking sweets",
+            "Disagree, Admonish or Sigh at meeting death at my hand",
+
+            "Laugh, Sip or Blush at a long time ago",
+            "Sigh, Sip or Praise at controlling impluses",
+            "Admonish, Sigh or Chat at the end of the war seems more horrible."
+        ]
+    }
+}
+
+exports.Jeritza = Jeritza; 
