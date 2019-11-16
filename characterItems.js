@@ -667,7 +667,13 @@ const Cyril =
             "Laugh or Nod at thinking you're an amazing person",
             "Disagree, Praise, or Chat at wondering if the Goddess would protect Almyrans"
         ]
-    }
+    }, 
+    lostItems: 
+    [
+        "Well-Used Hatchet", 
+        "Portrait of Rhea", 
+        "Old Cleaning Cloth"
+    ]
 }; 
 
 exports.Cyril = Cyril; 
@@ -840,7 +846,7 @@ const Dorothea =
     teaTime: 
     {
         favTea: "Sweet-Apple Blend", 
-        topic: 
+        topics: 
         [
             "A dinner invitation", 
         	"A new gambit", 
