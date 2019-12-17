@@ -337,10 +337,10 @@ const Bernadetta =
 
 exports.Bernadetta = Bernadetta; 
 
-const Casper = 
+const Caspar = 
 {
-    name: "Casper", 
-    profilePic: "casper.png", 
+    name: "Caspar", 
+    profilePic: "caspar.png", 
     gifts: 
     [
         "Smoked Meat",
@@ -421,7 +421,7 @@ const Casper =
     ]
 }; 
 
-exports.Casper = Casper; 
+exports.Caspar = Caspar; 
 
 const Catherine = 
 {

@@ -89,9 +89,9 @@ app.get('/bernadetta', function(req, res)
     res.send(constants.Bernadetta); 
 }); 
 
-app.get('/casper', function(req, res)
+app.get('/caspar', function(req, res)
 {
-    res.send(constants.Casper); 
+    res.send(constants.Caspar); 
 }); 
 
 app.get('/catherine', function(req, res)
