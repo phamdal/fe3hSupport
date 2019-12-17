@@ -69,6 +69,11 @@ app.get('/alois', function(req, res)
     res.send(constants.Alois); 
 }); 
 
+app.get('/anna', function(req, res)
+{
+    res.send(constants.Anna); 
+}); 
+
 app.get('/annette', function(req, res)
 {
     res.send(constants.Annette); 

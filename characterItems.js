@@ -1449,67 +1449,67 @@ const Hilda =
     ], 
     teaTime: 
     {
-        favTea: "Bergamot, Sweet-Apple Blend", 
+        favTea: "Southern Fruit Blend, Mint Leaves, Rose Petal Blend", 
         topics: 
         [
-            "A dinner invitation", 
-        	"A new gambit", 
-        	"A place you'd like to visit", 
-        	"A word of advice", 
-        	"Books you've read recently", 
-        
-            "Capable comrades", 
-        	"Cooking mishaps", 
-        	"Equipment upkeep", 
-        	"Evaluating allies", 
-        	"Exploring the Monastery", 
-        
-            "Fashion", 
-        	"Favorite sweets", 
-        	"Fodlan's future", 
-        	"Food in the Dining Hall", 
-        	"Gifts you'd like to receive", 
-        
-            "Heart-racing memories", 
-        	"I heard some gossip", 
-        	"I'm counting on you", 
-        	"Likeable allies", 
-        	"Monastery mysteries", 
-        
-            "Monastery rules", 
-        	"Monastery security", 
-        	"Out first meeting", 
-        	"Overcoming weaknesses", 
-        	"Past laughs", 
-        
-            "Plans for the future", 
-        	"Relaxing at the Sauna", 
-        	"School days", 
-        	"Shareable snacks", 
-        	"Tell me about yourself", 
-        
-            "Thanks for everything", 
-        	"The existence of Crests", 
-        	"The ideal professor", 
-        	"The last battle", 
-        	"The Library's collection", 
-        
-            "Things that bother you	You seem well", 
-        	"You're doing great work", 
-        	"Your research"
+            "A dinner invitation",
+            "Close calls",
+            "Dining partners",
+            "Fashion",
+            "Food in the dining hall",
+
+            "Guessing someone’s age",
+            "I heard some gossip",
+            "Past laughs",
+            "Reliable allies",
+            "Shareable snacks",
+
+            "The courtyard couple",
+            "Things that bother you",
+            "You seem well",
+            "A place you’d like to visit",
+            "Cute accessories",
+
+            "Dreamy knights",
+            "Favorite sweets",
+            "Gardening mishaps",
+            "Heart-racing memories",
+            "Likable allies",
+
+            "Plans for the future",
+            "School days",
+            "Tell me about yourself",
+            "The ideal relationship",
+            "Things you find romantic",
+
+            "You’re doing great work",
+            "Classes you might enjoy",
+            "Cute monks",
+            "Evaluating allies",
+            "First crushes",
+
+            "Gifts you’d like to receive",
+            "Hopes for your future",
+            "Our first meeting",
+            "Relaxing at the sauna",
+            "School uniforms",
+
+            "Thanks for everything",
+            "The opera",
+            "You seem different",
         ], 
         finalTopics: 
         [
-            "Disagree or Sip Tea about Ashen Demon being an unbelievable title",
-            "Nod or Chat at the Crest of Flames sharing many traits with other Crests",
-            "Commend or Sip Tea at diving into some research together",
-            "Commend or Praise my choice to leave behind my noble title and holdings",
-            "Praise or Sigh at my unrelenting study for Crests all in the name of my dear sister",
+            "Laugh or Admonish at being so easy to talk to",
+            "Disagree or Nod to cleaning my room, too",
+            "Laugh or Nod at everyone being so serious all the time",
+            "Blush, Laugh, or Nod at going on a trip together sometime",
+            "Sip Tea at have you ever cried",
 
-            "Laugh or Admonish at never can stop talking about Crests",
-            "Blush or Chat at never found out the secret of your birth",
-            "Sip Tea, Admonish, or Laugh at telling you about my favorite food or drinks",
-            "Praise, Chat, or Commend at the Monastery holding so many documents in the Library"
+            "Chat or Nod at knowing I'll always be safe by your side",
+            "Nod or Sip Tea at loving hearing myself talk",
+            "Nod or Laugh at my mind keeps drifting today",
+            "Laugh or Praise wishing I could stay here and chat all day"
         ]
     }, 
     lostItems: 
@@ -2829,7 +2829,7 @@ const Sylvain =
 
 exports.Sylvain = Sylvain; 
 
-const Sylvain = 
+const Jeritza = 
 {
     name: "Jeritza", 
     profilePic: "jeritza.png", 
@@ -2902,3 +2902,97 @@ const Sylvain =
 }
 
 exports.Jeritza = Jeritza; 
+
+const Anna = 
+{
+    name: "Anna", 
+    profilePic: "anna.png", 
+    gifts: 
+    [
+        "Blue Cheese",
+        "Coffee Beans",
+        "Exotic Spices",
+        "Goddess Statuette",
+        "Landscape Painting"
+    ], 
+    teaTime: 
+    {
+        favTea: "Bergamot, Dagda Fruit Blend, Seiros Tea", 
+        topics: 
+        [
+            "A dinner invitation", 
+            "A place you'd like to visit",
+            "A strong battalion",
+            "A word of advice",
+            "Books you've read recently",
+
+            "Cats",
+            "Children at the market",
+            "Classes you might enjoy",
+            "Close calls",
+            "Cooking mishaps",
+
+            "Dreamy knights",
+            "Equipment upkeep",
+            "Exploring the monastery",
+            "Fashion",
+            "Favorite sweets",
+
+            "First crushes",
+            "Fodlan's future",
+            "Food in the dining hall",
+            "Gardening mishaps",
+            "Gifts you'd like to receive",
+
+            "Guessing someone's age",
+            "Heart-racing memories",
+            "I heard some gossip",
+            "I'm counting on you",
+            "Likeable allies",
+
+            "Mighty weapons",
+            "Monastery mysteries",
+            "Monastery rules",
+            "Money-making secrets",
+            "Our first meeting",
+
+            "Overcoming weaknesses",
+            "Past laughs",
+            "Perfect recipes",
+            "Plans for the future",
+            "Relaxing at the sauna",
+
+            "Reliable allies",
+            "Shareable snacks",
+            "Strange fish in the pond",
+            "Tell me about yourself",
+            "Thanks for everything",
+
+            "The ideal professor",
+            "The library's collection",
+            "The opera",
+            "The view from the bridge",
+            "Working hours for guards",
+
+            "Working together",
+            "You seem different",
+            "You seem well", 
+            "You're doing great work"	
+        ], 
+        finalTopics: 
+        [
+            "Nod, Chat, or Praise at cornering the market",
+            "Nod, Commend, or Praise at having to protect yourself",
+            "Commend, Chat, or Praise at paying taxes as thanks",
+            "Disagree, Sip Tea, Blush at brewing tea for a living",
+            "Commend or Praise at distributing minerals to a buyer",
+
+            "Laugh, Disagree, or Admonish at being really hard to enjoy tea",
+            "Nod, Admonish, or Chat about nobles with fat wallets",
+            "Laugh or Chat about the secret of where she's from",
+            "Nod or Sigh about the cost of war pushing profit margins up"
+        ]
+    }
+}
+
+exports.Anna = Anna; 
