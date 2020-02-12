@@ -13,6 +13,7 @@ app.use(function(req, res, next) {
 var constants = require("./characterItems"); 
 var abList = require("./adviceBox");
 var lecList = require("./lectureAnswers"); 
+var lostList = require("./lostItems"); 
 
 app.get('/', function(req, res)
 {
@@ -56,6 +57,28 @@ app.post('/lecture', function(req, res)
         let question = x.question; 
 
         if(question.toLowerCase().includes(searchString))
+        {
+            finalList.push(x); 
+        }
+    }); 
+
+    res.send(finalList); 
+}); 
+
+app.post('/lostItems', function(req, res)
+{
+    let searchString = req.body.searchQuery; 
+    searchString = searchString.toLowerCase(); 
+
+    // to-do: do some validation
+    let lostItemsList = lostList.lostItems; 
+    let finalList = []; 
+
+    lostItemsList.forEach((x) => 
+    {
+        let item = x.item; 
+
+        if(item.toLowerCase().includes(item))
         {
             finalList.push(x); 
         }
