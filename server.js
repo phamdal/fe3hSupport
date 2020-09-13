@@ -78,7 +78,7 @@ app.post('/lostItems', function(req, res)
     {
         let item = x.item; 
 
-        if(item.toLowerCase().includes(item))
+        if(item.toLowerCase().includes(searchString))
         {
             finalList.push(x); 
         }
