@@ -397,3 +397,5 @@ var lostItems =
         character: "Sylvain"
     }
 ]
+
+exports.lostItems = lostItems; 
